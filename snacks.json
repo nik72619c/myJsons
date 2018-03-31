@@ -1,0 +1,12 @@
+{
+
+    "snacks":[
+
+        {"snackid":"1","name":"kurkure","price": "10","src":"https://78.media.tumblr.com/avatar_86bf961e73d2_128.pnj","quantity":"10"},
+        
+        {"snackid":"2","name":"lays","price": "10","src":"https://78.media.tumblr.com/avatar_86bf961e73d2_128.pnj","quantity":"10"},
+        
+        {"snackid":"3","name":"yumitos","price": "10","src":"https://78.media.tumblr.com/avatar_86bf961e73d2_128.pnj","quantity":"10"}
+    
+    ]
+}

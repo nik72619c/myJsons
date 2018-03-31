@@ -1,0 +1,12 @@
+{
+
+    "veggies":[
+
+        {"veggiesid":"1","name":"burger","price": "10","src":"https://78.media.tumblr.com/avatar_86bf961e73d2_128.pnj","quantity":"10"},
+        
+        {"veggiesid":"2","name":"pizza","price": "10","src":"https://78.media.tumblr.com/avatar_86bf961e73d2_128.pnj","quantity":"10"},
+        
+        {"veggiesid":"3","name":"french fries","price": "10","src":"https://78.media.tumblr.com/avatar_86bf961e73d2_128.pnj","quantity":"10"}
+    
+    ]
+}
